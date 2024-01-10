@@ -39,7 +39,7 @@ xPore : AI base application to find RNA modification used in bioinformatics
 
 Input data : Nanopore DNA sequencing → สัญญาณไฟฟ้า
 
-![Overall of study journal]([xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled.png](https://www.notion.so/pam-sl/xPore-249c74fc1a4f42c9a7898f4931d49a69?pvs=4#e3e6a640d51746b9b0a504ca52e31eaa))
+![Overall of study journal](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled.png)
 
 Overall of study journal
 
@@ -65,7 +65,7 @@ In this study focused on **mRNA →** gene expression → มาจากกา�
 
 ### Nanopore pre-processing pipeline
 
-![Untitled](xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled%201.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled%201.png)
 
 ### Problem statement
 
@@ -79,7 +79,7 @@ Research objective : (1) m6A location and (2) Modification rates / quantify
 
 **Gaussian Mixture Modelling (GMM)**
 
-![มีหลาย distribution ผสมกัน ](xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled%202.png)
+![มีหลาย distribution ผสมกัน ](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled%202.png)
 
 มีหลาย distribution ผสมกัน 
 
@@ -92,15 +92,15 @@ Research objective : (1) m6A location and (2) Modification rates / quantify
 
 Learning algorithm สำหรับ หาค่า parameter ตามสูตร GMM ที่ดีที่สุด
 
-![Untitled](xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled%203.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled%203.png)
 
 **Frequentist / Point estimation**
 
 ผลลัพธ์เป็นตัวเลขชุดเดียว (theta) ที่ทำให้ Data มี prob สูงที่สุด
 
-![Untitled](xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled%204.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled%204.png)
 
-![Untitled](xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled%205.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled%205.png)
 
 **Apply Bayesian Multi-Sample Gaussian Mixture Modelling in bioinforamatics**
 
@@ -115,7 +115,7 @@ Note:
 
 - Built Config file
     
-    ![Untitled](xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled%206.png)
+    ![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled%206.png)
     
     - ในโค้ด ต้องเขียน script เพื่ออ่านไฟล์ config ด้วย
 - Python packaging
@@ -141,7 +141,7 @@ Application
 
 ### Visualization & Presentation
 
-![each fig contains sub fig/graph](xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled%207.png)
+![each fig contains sub fig/graph](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled%207.png)
 
 each fig contains sub fig/graph
 
@@ -156,7 +156,7 @@ Choose the right plots → image is easy to understand
 - plot w/ Python → edit/compose w/ PPT or PS
 - understandable & meaningful > beautiful
 
-![2. → นำไปประยุกต์ใช้กับอย่างอื่นได้เยอะ และมีการประเมินที่น่าเชื่อถือ](xPore%20249c74fc1a4f42c9a7898f4931d49a69/Untitled%208.png)
+![2. → นำไปประยุกต์ใช้กับอย่างอื่นได้เยอะ และมีการประเมินที่น่าเชื่อถือ](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a69b726a5b4188e1ca6c0a3fc602ad02fa1bd565/Untitled%208.png)
 
 2. → นำไปประยุกต์ใช้กับอย่างอื่นได้เยอะ และมีการประเมินที่น่าเชื่อถือ
 
