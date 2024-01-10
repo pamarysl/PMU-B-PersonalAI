@@ -10,6 +10,7 @@ For the workshop, I attached files of each lecture here.
 - [Biosignal](https://github.com/pamarysl/PMU-B-PersonalAI/blob/945e0d09fd57c60cd27e7d17029c9d2aa960d757/Biosignal-Workshop_model.py) 
 - [CodeClone](https://github.com/pamarysl/PMU-B-PersonalAI/blob/90f8ed3bd57905a740f736a30204a872fca1ed74/CodeCloneDetection-Workshop.ipynb)
 - [BiTNet](https://github.com/pamarysl/PMU-B-PersonalAI/blob/686a4eea167f2e80c4bd231b8c79bc02d1463c4f/ImageClassification-Workshop_EfficientNetB5.ipynb)
+- [AI for arresting criminals](https://github.com/pamarysl/PMU-B-PersonalAI/blob/1e499cb7e8ae48f7b107a43ed0d683c9771bddd2/Image-Workshop_ObjectDetection.ipynb)
 
 
 
