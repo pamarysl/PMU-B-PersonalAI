@@ -200,7 +200,7 @@ social media เป็นช่องทางหนึ่งที่คนม�
 
 ### Data Exploration & Preprocessing
 
-![Untitled](Social%20media%20c7427e3be563489383ed5550a5ab2a61/Untitled.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/5e22259e55e3904d09e4c4331febec2a22ace950/Untitled.png)
 
 Apart from Computer science, We need to have **Domain knowledge** too ex. understanding in interested disease 
 
@@ -212,7 +212,7 @@ Apart from Computer science, We need to have **Domain knowledge** too ex. unders
 
 NLP w/ supervised learning
 
-![Untitled](Social%20media%20c7427e3be563489383ed5550a5ab2a61/Untitled%201.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/5e22259e55e3904d09e4c4331febec2a22ace950/Untitled%201.png)
 
 ### Model Evaluation
 
@@ -265,11 +265,11 @@ Collect and score Polysomnogram (PSG) ประกอบด้วยสัญญ
 
 โครงสร้าง ประกอบด้วย CNN large(filterใหญ่/ยาว), small (filterเล็ก/สั้น) เนื่องจากต้องการสกัด feature จากสัญญาณที่ทั้งมีความถี่สูงและต่ำ (ใช้ CNN large) อีกทั้งตัว CNN เรียนรู้เองจากข้อมูลและหา pattern เอง ไม่เหมือนแต่ก่อนที่มีความรู้อยู่แล้วว่าคลื่นสมองเหมือนกราฟ sine ทำให้ CNN สามารถปรับความจำเพาะในผู้ป่วยแต่ละรายได้
 
-![Untitled](Biosignal%20d358467189514a5b8e0366b4192bb2c4/Untitled%202.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a552da67b3585cb98b2a670d0e9dee528f63d53c/Untitled%202.png)
 
 ส่วนต่อมาเป็นโครงสร้างแบบ RNN เนื่องจากในการตัดสินมีการดู condition ก่อนหน้าร่วมด้วย ตามทฤษฎีทางการแพทย์ แต่ก็มีเส้นทางลัดที่ไม่ได้ผ่าน RNN ให้โมเดลตัดสินใจเลือกใช้ด้วย
 
-![Untitled](Biosignal%20d358467189514a5b8e0366b4192bb2c4/Untitled%203.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a552da67b3585cb98b2a670d0e9dee528f63d53c/Untitled%203.png)
 
 Aim: find θ that mininize summation
 
@@ -282,7 +282,7 @@ Aim: find θ that mininize summation
 
 ### Evaluation
 
-![Untitled](Biosignal%20d358467189514a5b8e0366b4192bb2c4/Untitled%204.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a552da67b3585cb98b2a670d0e9dee528f63d53c/Untitled%204.png)
 
 Performance matrics
 
@@ -298,7 +298,7 @@ K-fold cross-validation
 
 Hypnogram ฮิปโนแกรม
 
-![Untitled](Biosignal%20d358467189514a5b8e0366b4192bb2c4/Untitled%205.png)
+![Untitled](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a552da67b3585cb98b2a670d0e9dee528f63d53c/Untitled%205.png)
 
 ### Future work
 
