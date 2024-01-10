@@ -8,7 +8,7 @@ For the workshop, I attached files of each lecture here.
 - [xPore](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a0397b0d4c97474d7fd9168ef6737362359136b4/XPore-Workshop_GMM.ipynb)
 - [Mental disorder detection from social media data](https://github.com/pamarysl/PMU-B-PersonalAI/blob/c3192d91f2826f2b64d2b7faa81e6e79066202a7/SocialMedia-Workshop.ipynb)
 - [Biosignal](https://github.com/pamarysl/PMU-B-PersonalAI/blob/945e0d09fd57c60cd27e7d17029c9d2aa960d757/Biosignal-Workshop_model.py) 
-- [CodeClone](#CodeClone)  
+- [CodeClone](https://github.com/pamarysl/PMU-B-PersonalAI/blob/90f8ed3bd57905a740f736a30204a872fca1ed74/CodeCloneDetection-Workshop.ipynb)
 - [BiTNet](#BiTNet)
 
 
