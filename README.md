@@ -2,6 +2,19 @@
 
 ## Round 2 | “Personal AI Portfolio”
 This repository consists of my notes from the lectures and code from the workshop.
+
+For the workshop, I attached files of each lecture here.
+
+[xPore](https://www.google.com)
+[Mental disorder detection from social media data](#Socialmedia)  
+[Biosignal](#Biosignal)  
+[CodeClone](#CodeClone)  
+[BiTNet](#BiTNet)
+
+
+
+
+For summary note, kindly read following paragraphs.
 ##### Table of Contents  
 [xPore](#xPore)  
 [Mental disorder detection from social media data](#Socialmedia)  
