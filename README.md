@@ -5,12 +5,11 @@ This repository consists of my notes from the lectures and code from the worksho
 
 For the workshop, I attached files of each lecture here.
 
-[xPore](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a0397b0d4c97474d7fd9168ef6737362359136b4/XPore-Workshop_GMM.ipynb)
-
-[Mental disorder detection from social media data](#Socialmedia)  
-[Biosignal](#Biosignal)  
-[CodeClone](#CodeClone)  
-[BiTNet](#BiTNet)
+- [xPore](https://github.com/pamarysl/PMU-B-PersonalAI/blob/a0397b0d4c97474d7fd9168ef6737362359136b4/XPore-Workshop_GMM.ipynb)
+- [Mental disorder detection from social media data](https://github.com/pamarysl/PMU-B-PersonalAI/blob/c3192d91f2826f2b64d2b7faa81e6e79066202a7/SocialMedia-Workshop.ipynb)
+- [Biosignal](#Biosignal)  
+- [CodeClone](#CodeClone)  
+- [BiTNet](#BiTNet)
 
 
 
