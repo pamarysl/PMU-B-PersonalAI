@@ -1,6 +1,9 @@
 # PMU-B-PersonalAI
 
 ## Round 2 | “Personal AI Portfolio”
+
+Know me better from this presentation video click 👉 [![Watch the video](http://img.youtube.com/vi/xmGU1ydM88Q/3.jpg)](https://youtu.be/xmGU1ydM88Q)
+
 This repository consists of my notes from the lectures and code from the workshop.
 
 For the workshop, I attached files of each lecture here.
